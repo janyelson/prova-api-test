@@ -1,0 +1,14 @@
+O Modelo Espiral realiza uma etapa de cada vez, partindo para a próxima etapa apenas após a anterior estar totalmente validada.
+Tal modelo de ciclo de vida tem foco apenas na resolução de riscos de requisitos mal compreendidos, fornecendo tempo suficiente para que estes possam ser entendidos e implementados. 
+O projeto é dividido em subprojetos, cada qual abordando um ou mais elementos de alto risco, até que todos os riscos identificados tenham sido tratados. 
+Cada iteração é iniciada sem planejamento prévio, resolvendo-se os problemas no momento em que surgem. 
+O início do ciclo de vida do projeto se parece mais com o Modelo Cascata.
+1
+3
+"O Modelo Espiral (Spiral) foi originalmente proposto por Boehm (1986) e é fortemente orientado à redução de riscos.
+
+WAZLAWICK, R. S. Engenharia de Software: Conceitos e práticas. São Paulo: Elsevier, 2013.
+
+
+
+Considerando o exposto e o Modelo Espiral de ciclo de vida de software, assinale a alternativa correta."

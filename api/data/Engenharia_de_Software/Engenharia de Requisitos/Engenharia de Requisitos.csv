@@ -1,0 +1,108 @@
+"Regras de negócio, pois podem restringir os requisitos funcionais existentes.","Casos de Uso, pois fará o detalhamento dos requisitos reduzindo os riscos. ","Prototipação das principais funcionalidades ou as mais críticas para checar com o usuário.
+","Cenário, pois vai dar uma descrição total do comportamento da aplicação. ","Join Application Development (JAD), sem a dinâmica de grupo, pois vai analisar os pontos de vista dos usuários sobre o sistema.","A equipe de desenvolvimento de um aplicativo já fechou o escopo do projeto e o levantamento dos requisitos. Agora irá validar os requisitos com o cliente e demonstrar conceitos, experimentar opções de projeto, conhecer mais sobre o problema e suas possíveis soluções, e talvez descobrir erros e omissões nos requisitos propostos. A equipe está discutindo com o gerente qual a técnica de validação mais adequada a ser utilizada.
+
+
+
+A técnica recomendada para esse caso é a seguinte:
+
+",1,2
+O tempo máximo de espera do sistema para a inserção do número do cartão de crédito deve ser maior do que oito segundos e menor do que 15 segundos.,"O sistema deve estar disponível por 99,5% do tempo durante as 24 horas do dia, sete dias por semana.
+","O formato do bilhete deve seguir o padrão definido na legislação municipal pertinente.
+",O usuário deve selecionar o cinema em que deseja assistir ao filme.,O sistema deve ser compatível com operação em smartphone.,"Um analista em treinamento apresenta a seguinte descrição para alguns requisitos de um sistema on-line para venda de bilhetes de uma rede de cinemas em que cada cinema apresenta mais de um filme, e cada filme é apresentado em mais de um cinema com lugares marcados.
+
+
+
+Quando o usuário entrar no site da rede, um menu é apresentado com os filmes e cinemas disponíveis. O usuário seleciona o filme a que deseja assistir e entra com o número de cartão de crédito. A validade do cartão é verificada e o bilhete é emitido. O sistema encerra a operação com a mensagem: obrigado, divirta-se.
+
+
+
+Embora haja falhas nessa descrição ainda incipiente, o instrutor solicitou que o analista a estendesse com exemplos de possíveis requisitos não funcionais para o sistema.
+
+Qual é a sentença que NÃO atende à solicitação do instrutor?",1,4
+calcular o valor do desconto conforme o perfil do cliente.,processar até 100 pedidos por segundo.,"produzir o software em até dois anos e ter custo inferior a R$100.000,00.
+","limitar o cadastro de usuários ao Departamento de Pessoal.
+
+","Nenhuma das alternativas
+","
+Com relação à qualidade de software, é um exemplo de requisito de software não funcional:
+
+
+Qual prática da Engenharia de Requisitos está associada à etapa de análise?",0,2
+portabilidade.,"confiabilidade.
+",manutenibilidade.,eficiência.,"Nenhuma das alternativas
+","Uma Engenharia de Requisitos (ER) bem estruturada garante qualidade, confiabilidade e integridade ao produto de software a ser desenvolvido. O conjunto de atributos que evidencia o esforço necessário para fazer modificações especificadas no software é uma característica de",0,3
+Workshops,Prototipagem,"Levantamento orientado a pontos de vista. 
+","Estudo e Etnográfico.
+","Nenhuma das alternativas
+","“Tem por objetivo explorar aspectos críticos dos requisitos de um produto, implementando de forma rápida um pequeno subconjunto de funcionalidades desse produto.” Essa definição é de uma das técnicas de levantamento de requisitos. Assinale-a.",1,2
+"São mais fortemente relacionados à arquitetura do sistema como um todo que a componentes individuais.
+","Um único requisito não funcional pode levar à geração de vários requisitos funcionais.
+","Requisitos de produto incluem, entre outros, requisitos relacionados ao custo computacional e à usabilidade.
+","Requisitos organizacionais são derivados de políticas e procedimentos das organizações do cliente ou do desenvolvedor, levantando requisitos relacionados a questões legais ou éticas.
+"," Sua definição pode gerar um problema durante o desenvolvimento devido a interpretações dúbias ou à ausência de parâmetros quantitativos para servirem de indicadores.
+"," Com relação aos requisitos não funcionais, assinale a alternativa INCORRETA.
+",2,4
+Entrevista,"Análise de cenários.
+","Etnografia.
+","Prototipagem
+","Levantamento orientado a pontos de vista.
+","Uma das técnicas para a elicitação de requisitos consiste em observar o trabalho diário da organização no qual o sistema proposto será usado para analisar em quais tarefas reais, os usuários estão envolvidos. Essa técnica se denomina de",1,3
+"I-3, II-4, III – 2, IV-1
+","I-1, II-3, III – 4, IV-2
+","I-1, II-2, III – 4, IV-3
+","I-4, II-3, III – 2, IV-1
+","I-3, II-4, III – 1, IV-2
+","Relacione as definições com as atividades do processo de engenharia de requisitos.
+
+
+
+I. Processo. que envolve a descoberta dos requisitos, ajudando no entendimento do sistema a ser especificado.
+
+II. Atividade, que documenta dois tipos de requisitos: de usuário e de sistema.
+
+III. Uma estimativa para saber se as necessidades identificadas do usuário podem ser satisfeitas, adotando-se tecnologias atuais de software e hardware.
+
+IV. Atividade, que encontra erros no documento de requisitos com relação ao realismo, à consistência e completude.
+
+
+
+1. Validação de requisitos
+
+2. Estudo de viabilidade
+
+3. Especificação de requisitos
+
+4. Elicitação e análise de requisitos
+
+
+
+Assinale a alternativa que contém a correlação CORRETA.",0,4
+"registram o histórico das mudanças nos requisitos e as histórias não implementadas.
+","detalham a implementação dos requisitos.
+","correspondem aos casos de uso do sistema.
+","definem o que será desenvolvido em um projeto.
+","são os requisitos do sistema. 
+","Quando utilizadas pelos métodos ágeis no levantamento ágil de requisitos, as users stories
+",2,4
+"V – V – F – V – F.
+","F – V – V – F – V. 
+","V – V – F – F – F.
+","F – F – V – V – V.
+","V – F – V – F – F.
+","Em um projeto de desenvolvimento de software, a definição dos requisitos de software é essencial para se entender as necessidades dos clientes. Sobre requisitos de software, identifique como verdadeiras (V) ou falsas (F) as seguintes afirmativas:
+
+
+
+( ) Requisitos funcionais descrevem o que um software deve fazer.
+
+( ) Requisitos não funcionais descrevem o que um software não deve fazer.
+
+( ) Requisitos de software são descobertos por meio de um processo chamado elicitação.
+
+( ) A validação de requisitos consiste no teste dos requisitos implementados no software em funcionamento.
+
+( ) Em processos ágeis de desenvolvimento de software, os requisitos devem ser definidos em detalhes no início do projeto.
+
+
+
+Assinale a alternativa que apresenta a sequência correta, de cima para baixo. ",0,5

@@ -1,0 +1,8 @@
+Quando um caso de uso representa uma tarefa intangível na vida real, ele é chamado de caso de uso abstrato.
+A figura do ator representa o usuário do caso de uso, que pode ser outro sistema informatizado.
+A ligação entre um caso de uso e seu respectivo ator é uma seta indicando o sentido do fluxo da informação.
+A relação de hierarquia de generalização/especialização entre atores é representada por uma seta apontada para o filho.
+O diagrama de casos de uso de um software pode ser decomposto em no máximo cinco níveis, cada nível com seu respectivo diagrama de casos de uso.
+1
+2
+Com relação aos diagramas de casos de uso, assinale a opção correta.

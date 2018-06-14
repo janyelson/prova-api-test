@@ -1,0 +1,22 @@
+RAD
+incremental 
+cascata 
+espiral
+baseado em componentes
+1
+2
+"O chefe dos desenvolvedores de sistemas de uma empresa acompanhou o seguinte diálogo entre um de seus subordinados, um usuário e o diretor de operações.
+
+
+
+Diretor – Acho que já poderíamos começar o desenvolvimento daquele sistema que o departamento de esportes pediu.
+
+Usuário – Não é cedo demais? Ainda não temos todas as funcionalidades bem definidas.
+
+Desenvolvedor – É verdade, mas acho que já é possível especificar e implementar algumas funcionalidades mais importantes e construir uma primeira versão até o final do mês. Depois acrescentaríamos outras funcionalidades à medida que as fôssemos construindo, gerando, a partir da experiência do uso, versões sucessivas e cada vez mais completas.
+
+Diretor – Acho isso ótimo, assim já teremos uma noção do impacto que o sistema poderá causar no desempenho dos atletas. Comecemos logo, não temos um efetivo tão grande em TI.
+
+Usuário – OK, vamos em frente, mas não contem nada para aquele especialista em risco. Já temos muito trabalho pela frente. Nossa estrutura ainda não suporta esse tipo de cuidado; se entrarmos nessa, o projeto vai atrasar. E mantenham o contato e o foco no objetivo: um produto simples, mas de qualidade.
+
+A partir desse episódio e refletindo sobre o que ouvira, o chefe dos desenvolvedores deverá optar pelo modelo de processo de software"

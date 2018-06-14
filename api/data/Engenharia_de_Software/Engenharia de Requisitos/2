@@ -1,0 +1,8 @@
+O tempo máximo de espera do sistema para a inserção do número do cartão de crédito deve ser maior do que oito segundos e menor do que 15 segundos.
+O sistema deve estar disponível por 99,5% do tempo durante as 24 horas do dia, sete dias por semana.
+O formato do bilhete deve seguir o padrão definido na legislação municipal pertinente.
+O usuário deve selecionar o cinema em que deseja assistir ao filme.
+O sistema deve ser compatível com operação em smartphone.
+1
+4
+Um analista em treinamento apresenta a seguinte descrição para alguns requisitos de um sistema on-line para venda de bilhetes de uma rede de cinemas em que cada cinema apresenta mais de um filme, e cada filme é apresentado em mais de um cinema com lugares marcados.

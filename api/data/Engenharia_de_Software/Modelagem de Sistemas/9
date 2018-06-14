@@ -1,0 +1,8 @@
+uma mesma pessoa que desempenha diferentes papéis deve ser representada por um único ator no Diagrama de Casos de Uso.
+os atores dos Diagramas de Caso de Uso representam algo que interage com o sistema, mas sobre o qual não se tem controle.
+eles identificam os atores envolvidos numa interação e nomeiam tais interações.
+os Diagramas de Casos de Uso podem apresentar relações de associação entre os casos de uso como inclusão ou extensão.
+são técnicas efetivas para obter requisitos de partes interessadas, que interagem diretamente com o sistema.
+2
+1
+A respeito dos Casos de Uso, é INCORRETO afirmar que

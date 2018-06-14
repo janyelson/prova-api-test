@@ -1,0 +1,36 @@
+3 – 4 – 2 – 1 – 5. 
+2 – 1 – 3 – 5 – 4.
+2 – 5 – 3 – 1 – 4. 
+4 – 5 – 1 – 2 – 3. 
+4 – 1 – 2 – 5 – 3.
+0
+3
+"'Um processo de software é um conjunto de atividades relacionadas que levam à produção de um produto de software' (Sommerville, 2011). Um dos modelos de processo de software existentes é o Rational Unified Process, também conhecido como RUP. O RUP define uma série de workflows – ou fluxos –, que representam agrupamentos de atividades a serem executadas pelas equipes de engenharia de software. Nesse sentido, numere a coluna da direita de acordo com sua correspondência com a coluna da esquerda, associando as atividades aos respectivos fluxos. 
+
+
+
+1. Modelagem de negócio.
+
+2. Requisitos.
+
+3. Análise e construção.
+
+4. Implementação.
+
+5. Teste. 
+
+
+
+( ) Define uma visão do sistema com base nas necessidades das partes interessadas.
+
+( ) Avalia a qualidade do produto.
+
+( ) Traduz os requisitos numa especificação que descreva como implementar o sistema.
+
+( ) Entende a estrutura e a dinâmica da organização em que o sistema será implantado.
+
+( ) Codifica e integra os componentes do software. 
+
+
+
+Assinale a alternativa que apresenta a numeração correta da coluna da direita, de cima para baixo."

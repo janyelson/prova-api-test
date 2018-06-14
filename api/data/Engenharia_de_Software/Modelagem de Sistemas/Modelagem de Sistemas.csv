@@ -1,0 +1,76 @@
+"Diagramas de atividade são responsáveis por descrever como diferentes classes interagem entre si, apresentando as informações apenas de processos de alto nível. 
+","Diagramas de estado permitem a visualização dos possíveis estados de cada classe do sistema, de forma que não são responsáveis por descrever a transição entre os estados. 
+","Diagramas de sequência mostram uma sucessão detalhada de passos tomados na execução de um caso de uso ou, ainda, apenas de parte de um caso de uso. 
+","Um diagrama de casos de uso tem foco na assinatura e na estrutura de cada classe e nos respectivos métodos no sistema.
+","Em um diagrama de classes, cada bloco é dividido em três partes. De cima para baixo, cada parte representa, respectivamente, o nome da classe e os respectivos métodos e atributos. 
+","A Unified Modeling Language (UML) é uma linguagem utilizada para documentar, especificar e visualizar artefatos de software. Em relação ao exposto e aos diferentes tipos de diagramas UML, assinale a alternativa correta.",1,3
+"atividades
+","sequência
+","colaboração
+","estados
+","casos de uso
+","Ao ler um conjunto de casos de usos para um sistema novo, um desenvolvedor de software percebeu que eles descreviam como o gerente financeiro e o gerente administrativo colaboravam em um fluxo de tarefas que levava à criação do relatório anual da empresa.
+
+
+
+Para mapear esse fluxo de tarefas de forma adequada, o desenvolvedor deve escolher o diagrama UML de",0,1
+"diagrama de classes para registrar classes e os relacionamentos entre elas.
+","diagrama de componentes para refletir as mudanças de estado de um objeto.
+","diagrama de atividades para ilustrar trocas de mensagens entre classes.
+","diagrama de implantação para indicar as generalizações/especializações.
+",Nenhuma das alternativas,"Uma equipe que usa programação orientada a objetos e UML cria um
+",0,1
+"Quando um caso de uso representa uma tarefa intangível na vida real, ele é chamado de caso de uso abstrato.
+","A figura do ator representa o usuário do caso de uso, que pode ser outro sistema informatizado.
+","A ligação entre um caso de uso e seu respectivo ator é uma seta indicando o sentido do fluxo da informação.
+","A relação de hierarquia de generalização/especialização entre atores é representada por uma seta apontada para o filho.
+","O diagrama de casos de uso de um software pode ser decomposto em no máximo cinco níveis, cada nível com seu respectivo diagrama de casos de uso.
+","Com relação aos diagramas de casos de uso, assinale a opção correta.
+",1,2
+"agregação por composição. Isso significa que a parte vive mesmo sem o todo. 
+","composição. Isso significa que a parte não vive sem o todo. 
+","interface simples. Isso significa que a parte não vive sem o todo, mas o todo existe sem a parte. 
+","agregação por herança. Isso significa que a parte vive mesmo sem o todo. 
+","herança múltipla. Isso significa que a parte vive mesmo sem o todo porque existem outras partes que compõem o todo.
+","Considere a relação todo-parte com forte vínculo entre as classes Tribunal e Departamento, significando as áreas administrativas que integram um tribunal. Na UML esta relação é tratada como 
+",1,2
+"uma inclusão do Ator Cidadão nos Casos de Uso Pessoa Física ou Jurídica. 
+","um relacionamento entre um Ator e dois Casos de Uso do tipo Generalização. 
+","um relacionamento entre atores do tipo Generalização. 
+","um relacionamento entre Casos de Uso do tipo Extensão. 
+","uma expansão dos Casos de Uso Pessoa Física ou Jurídica em Cidadão.  
+","Ao elaborar um modelo de Caso de Uso usando Unified Modeling Language – UML, um Analista de Sistemas levantou, hipoteticamente, os seguintes requisitos: o Cidadão que interage com o sistema pode atuar de forma geral como Cidadão, mas também de formas específicas como Pessoa Física ou Pessoa Jurídica. As diferentes formas de atuação do cidadão, indicam 
+",2,3
+"Sequência e Atividade. 
+","Classe e Componente. 
+","Caso de Uso e Componente. 
+","Componente e Objeto.
+","Sequência e Caso de Uso. 
+","Um Analista de Sistemas utilizou em seu projeto UML, especificações de diagramas de estrutura estática e também de comportamento dinâmico de objetos. Na especificação inicial ele usou o Diagrama de Caso de Uso e também modelou alguns processos usando o Diagrama de Atividade. Utilizou, ainda, para a representação da conexão de funções on line o Diagrama de Sequência e também o Diagrama de Componente. Os diagramas de Classe e de Objeto também foram utilizados pelo Analista para especificar os atributos e operações que seriam usados no projeto. Esses seis diagramas, ou seja, Caso de Uso, Atividade, Sequência, Componente, Classes e Objetos foram o suficiente para ele especificar o funcionamento do sistema e do software de suporte. Destes todos, trata-se de um diagrama usado para modelar o comportamento dinâmico do software e um aplicado na modelagem da estrutura estática dos elementos do sistema, respectivamente, 
+",1,3
+"Diagrama de Interação
+","Diagrama de Caso de Uso 
+","Diagrama de Atividades
+","Diagrama de Sequência
+","Diagrama de Implantação
+",Na análise e projeto orientado a objetos com UML (Unifed Modeling Language) o programador necessita de um diagrama que apresente os requisitos funcionais do sistema. O diagrama desejado será o:,0,2
+"uma mesma pessoa que desempenha diferentes papéis deve ser representada por um único ator no Diagrama de Casos de Uso.
+","os atores dos Diagramas de Caso de Uso representam algo que interage com o sistema, mas sobre o qual não se tem controle.
+","eles identificam os atores envolvidos numa interação e nomeiam tais interações.
+","os Diagramas de Casos de Uso podem apresentar relações de associação entre os casos de uso como inclusão ou extensão.
+","são técnicas efetivas para obter requisitos de partes interessadas, que interagem diretamente com o sistema.
+","A respeito dos Casos de Uso, é INCORRETO afirmar que
+",2,1
+1,2,3,4,5,"Quantas das opções abaixo fazem parte do conjunto de diagramas comportamentais da UML?
+
+
+
+I. Diagrama de classes
+
+II. Diagrama de atividades
+
+III. Diagrama de casos de uso
+
+IV. Diagrama de sequência
+
+V. Diagrama de componentes",1,3

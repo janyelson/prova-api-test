@@ -1,0 +1,8 @@
+Regras de negócio, pois podem restringir os requisitos funcionais existentes.
+Casos de Uso, pois fará o detalhamento dos requisitos reduzindo os riscos. 
+Prototipação das principais funcionalidades ou as mais críticas para checar com o usuário.
+Cenário, pois vai dar uma descrição total do comportamento da aplicação. 
+Join Application Development (JAD), sem a dinâmica de grupo, pois vai analisar os pontos de vista dos usuários sobre o sistema.
+1
+2
+A equipe de desenvolvimento de um aplicativo já fechou o escopo do projeto e o levantamento dos requisitos. Agora irá validar os requisitos com o cliente e demonstrar conceitos, experimentar opções de projeto, conhecer mais sobre o problema e suas possíveis soluções, e talvez descobrir erros e omissões nos requisitos propostos. A equipe está discutindo com o gerente qual a técnica de validação mais adequada a ser utilizada.

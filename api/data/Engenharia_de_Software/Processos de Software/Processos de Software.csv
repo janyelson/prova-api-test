@@ -1,0 +1,109 @@
+"um dos fluxos de trabalho (Disciplinas) do RUP é o de Modelagem de negócios, em que os processos de negócio são modelados por meio de casos de uso de negócios.
+","os fluxos de trabalho (Disciplinas) do RUP são dinâmicos e têm metas bem definidas a eles associadas.
+","ao contrário do modelo de processos denominado Cascata, no qual as fases são equalizadas com as atividades do processo, as fases do RUP são relacionadas ao negócio, e não a assuntos técnicos.
+","o RUP pode ser considerado uma plataforma que permite construir uma grande família de processos personalizados para muitos portes de projeto e muitas aplicações diferentes.
+",Nenhuma das alternativas,"O RUP (Rational Unified Process) é um exemplo de processo tradicional, derivado de trabalhos envolvendo a UML e o Processo Unificado. Com relação ao RUP, é INCORRETO afirmar que
+",2,2
+"O Modelo Espiral realiza uma etapa de cada vez, partindo para a próxima etapa apenas após a anterior estar totalmente validada.
+","Tal modelo de ciclo de vida tem foco apenas na resolução de riscos de requisitos mal compreendidos, fornecendo tempo suficiente para que estes possam ser entendidos e implementados. 
+","O projeto é dividido em subprojetos, cada qual abordando um ou mais elementos de alto risco, até que todos os riscos identificados tenham sido tratados. 
+","Cada iteração é iniciada sem planejamento prévio, resolvendo-se os problemas no momento em que surgem. 
+","O início do ciclo de vida do projeto se parece mais com o Modelo Cascata.
+","O Modelo Espiral (Spiral) foi originalmente proposto por Boehm (1986) e é fortemente orientado à redução de riscos.
+
+WAZLAWICK, R. S. Engenharia de Software: Conceitos e práticas. São Paulo: Elsevier, 2013.
+
+
+
+Considerando o exposto e o Modelo Espiral de ciclo de vida de software, assinale a alternativa correta.
+
+",1,3
+"RAD
+"," incremental 
+","cascata 
+",espiral ,"baseado em componentes
+","O chefe dos desenvolvedores de sistemas de uma empresa acompanhou o seguinte diálogo entre um de seus subordinados, um usuário e o diretor de operações.
+
+
+
+Diretor – Acho que já poderíamos começar o desenvolvimento daquele sistema que o departamento de esportes pediu.
+
+Usuário – Não é cedo demais? Ainda não temos todas as funcionalidades bem definidas.
+
+Desenvolvedor – É verdade, mas acho que já é possível especificar e implementar algumas funcionalidades mais importantes e construir uma primeira versão até o final do mês. Depois acrescentaríamos outras funcionalidades à medida que as fôssemos construindo, gerando, a partir da experiência do uso, versões sucessivas e cada vez mais completas.
+
+Diretor – Acho isso ótimo, assim já teremos uma noção do impacto que o sistema poderá causar no desempenho dos atletas. Comecemos logo, não temos um efetivo tão grande em TI.
+
+Usuário – OK, vamos em frente, mas não contem nada para aquele especialista em risco. Já temos muito trabalho pela frente. Nossa estrutura ainda não suporta esse tipo de cuidado; se entrarmos nessa, o projeto vai atrasar. E mantenham o contato e o foco no objetivo: um produto simples, mas de qualidade.
+
+A partir desse episódio e refletindo sobre o que ouvira, o chefe dos desenvolvedores deverá optar pelo modelo de processo de software  ",1,2
+"Manutenção.
+","Concepção.
+","Transição.
+","Construção
+","Elaboração.
+","O Processo Unificado da Rational conhecido RUP, é um processo de engenharia de software criado para apoiar o desenvolvimento orientado a objetos, fornecendo uma forma sistemática para se obter vantagens no uso da UML. Sendo assim, assinale em que fase de processo ocorre o treinamento de usuários? 
+",0,3
+"No Scrum as práticas de test-first e programação em pares são utilizadas para aumentar a qualidade do produto entregue na revisão da sprint. 
+","O RUP (Rational Unified Process) é um exemplo de processo interativo e incremental baseado principalmente no modelo cascata.
+","No RUP (Rational Unified Process) a disciplina de requisitos analisa o problema e define as necessidades dos usuários a partir das estórias do usuário.
+","No XP (Extreme Programming) as funcionalidades são especificadas por casos de uso.
+","No XP (Extreme Programming) as práticas de test-first e refatoração são usadas para evitar a degeneração do código e a integração contínua de novas releases. 
+","A respeito das metodologias de desenvolvimento de software, assinale a opção CORRETA:  
+",1,5
+evolutivos,"unificados.
+","sequenciais.
+",incrementais,Nenhuma das alternativas,"Os modelos de processo em que o sistema é dividido em pequenos subsistemas funcionais que, a cada ciclo, são acrescidos de novas funcionalidades são denominados",0,4
+"Entre os fluxos de trabalho utilizados pelo RUP inclui-se o fluxo de trabalho alternativo, que permite ao desenvolvedor estabelecer um processo de contingência para o sistema. 
+","O desenvolvimento embasado em RUP é dividido em quatro fases: elaboração, construção, testes e entrega.
+","O RUP é composto por nove disciplinas: modelagem de negócios; requisitos; análise e projeto; implementação; teste; distribuição; configuração e gerenciamento de mudanças; gerenciamento de projeto; e ambiente.
+","No modelo em cascata, adotado para RUP, cada fase ocorre depois de finalizada a anterior.
+",Nenhuma das alternativas,"A respeito de metodologia RUP, assinale a opção correta.
+",1,3
+"Concepção, Elaboração, Construção e Transição.
+","Concepção, Elaboração, Implementação e Transição.
+","Estudo de Viabilidade, Concepção, Construção e Transição.
+","Elaboração, Gerenciamento, Construção e Transição.
+","Modelagem de Negócios, Requisitos, Análise, Projeto e Implantação.
+","O RUP (Rational Unified Process) é definido nas fases:
+",0,1
+"concepção, que analisa os requisitos do projeto de forma detalhada.
+","elaboração, que consiste em criar uma lista com os principais casos de uso do sistema e, posteriormente, definir suas respectivas prioridades. 
+","construção, que prioriza os casos de uso mais complexos a fim de implementar componentes de software que sejam operacionais para os usuários finais.
+","transição, que consiste na entrega do sistema aos usuários finais para testes e feedbacks.
+",Nenhuma das alternativas," Uma das fases do Processo Unificado com sua respectiva descrição é a
+",1,4
+"3 – 4 – 2 – 1 – 5. 
+","2 – 1 – 3 – 5 – 4.
+","2 – 5 – 3 – 1 – 4. 
+","4 – 5 – 1 – 2 – 3. 
+","4 – 1 – 2 – 5 – 3.
+","“Um processo de software é um conjunto de atividades relacionadas que levam à produção de um produto de software” (Sommerville, 2011). Um dos modelos de processo de software existentes é o Rational Unified Process, também conhecido como RUP. O RUP define uma série de workflows – ou fluxos –, que representam agrupamentos de atividades a serem executadas pelas equipes de engenharia de software. Nesse sentido, numere a coluna da direita de acordo com sua correspondência com a coluna da esquerda, associando as atividades aos respectivos fluxos. 
+
+
+
+1. Modelagem de negócio.
+
+2. Requisitos.
+
+3. Análise e construção.
+
+4. Implementação.
+
+5. Teste. 
+
+
+
+( ) Define uma visão do sistema com base nas necessidades das partes interessadas.
+
+( ) Avalia a qualidade do produto.
+
+( ) Traduz os requisitos numa especificação que descreva como implementar o sistema.
+
+( ) Entende a estrutura e a dinâmica da organização em que o sistema será implantado.
+
+( ) Codifica e integra os componentes do software. 
+
+
+
+Assinale a alternativa que apresenta a numeração correta da coluna da direita, de cima para baixo.",0,3

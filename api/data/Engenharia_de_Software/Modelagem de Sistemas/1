@@ -1,0 +1,8 @@
+Diagramas de atividade são responsáveis por descrever como diferentes classes interagem entre si, apresentando as informações apenas de processos de alto nível. 
+Diagramas de estado permitem a visualização dos possíveis estados de cada classe do sistema, de forma que não são responsáveis por descrever a transição entre os estados. 
+Diagramas de sequência mostram uma sucessão detalhada de passos tomados na execução de um caso de uso ou, ainda, apenas de parte de um caso de uso. 
+Um diagrama de casos de uso tem foco na assinatura e na estrutura de cada classe e nos respectivos métodos no sistema.
+Em um diagrama de classes, cada bloco é dividido em três partes. De cima para baixo, cada parte representa, respectivamente, o nome da classe e os respectivos métodos e atributos. 
+A Unified Modeling Language (UML) é uma linguagem utilizada para documentar, especificar e visualizar artefatos de software. Em relação ao exposto e aos diferentes tipos de diagramas UML, assinale a alternativa correta.
+1
+3

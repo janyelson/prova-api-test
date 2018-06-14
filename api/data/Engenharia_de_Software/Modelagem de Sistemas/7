@@ -1,0 +1,8 @@
+Sequência e Atividade. 
+Classe e Componente. 
+Caso de Uso e Componente. 
+Componente e Objeto.
+Sequência e Caso de Uso. 
+1
+3
+Um Analista de Sistemas utilizou em seu projeto UML, especificações de diagramas de estrutura estática e também de comportamento dinâmico de objetos. Na especificação inicial ele usou o Diagrama de Caso de Uso e também modelou alguns processos usando o Diagrama de Atividade. Utilizou, ainda, para a representação da conexão de funções on line o Diagrama de Sequência e também o Diagrama de Componente. Os diagramas de Classe e de Objeto também foram utilizados pelo Analista para especificar os atributos e operações que seriam usados no projeto. Esses seis diagramas, ou seja, Caso de Uso, Atividade, Sequência, Componente, Classes e Objetos foram o suficiente para ele especificar o funcionamento do sistema e do software de suporte. Destes todos, trata-se de um diagrama usado para modelar o comportamento dinâmico do software e um aplicado na modelagem da estrutura estática dos elementos do sistema, respectivamente, 

@@ -1,0 +1,8 @@
+uma inclusão do Ator Cidadão nos Casos de Uso Pessoa Física ou Jurídica. 
+um relacionamento entre um Ator e dois Casos de Uso do tipo Generalização. 
+um relacionamento entre atores do tipo Generalização. 
+um relacionamento entre Casos de Uso do tipo Extensão. 
+uma expansão dos Casos de Uso Pessoa Física ou Jurídica em Cidadão.  
+2
+3
+Ao elaborar um modelo de Caso de Uso usando Unified Modeling Language – UML, um Analista de Sistemas levantou, hipoteticamente, os seguintes requisitos: o Cidadão que interage com o sistema pode atuar de forma geral como Cidadão, mas também de formas específicas como Pessoa Física ou Pessoa Jurídica. As diferentes formas de atuação do cidadão, indicam 

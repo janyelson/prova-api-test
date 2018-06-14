@@ -1,0 +1,8 @@
+agregação por composição. Isso significa que a parte vive mesmo sem o todo. 
+composição. Isso significa que a parte não vive sem o todo. 
+interface simples. Isso significa que a parte não vive sem o todo, mas o todo existe sem a parte. 
+agregação por herança. Isso significa que a parte vive mesmo sem o todo. 
+herança múltipla. Isso significa que a parte vive mesmo sem o todo porque existem outras partes que compõem o todo.
+1
+2
+Considere a relação todo-parte com forte vínculo entre as classes Tribunal e Departamento, significando as áreas administrativas que integram um tribunal. Na UML esta relação é tratada como 
